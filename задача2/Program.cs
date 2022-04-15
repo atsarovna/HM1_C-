@@ -16,3 +16,4 @@ if (c > max) max = c;
 
 Console.Write("max = ");
 Console.WriteLine(max);
+//программа,котрорая выдает максимальное число из трех введенных
