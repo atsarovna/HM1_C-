@@ -4,6 +4,7 @@ int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число :");
 int b = Convert.ToInt32(Console.ReadLine());
 
+//находим максимальное число
 if (a > b)
 {
     Console.WriteLine("Максимальное число: " + a);
